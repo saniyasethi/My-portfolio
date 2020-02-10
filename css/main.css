@@ -1,1 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 
+/* This section determines some 'top-level' formatting properties that are common to all the pages */
+body {
+	margin: 0px; /* Override any browser imposed defaults */
+	padding: 0px; /* Override any browser imposed defaults */
+	background-color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	color: red;
+	font-size: 3em;
+	font-weight: lighter;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: pink;
+	margin: 36px;
+	padding: 36px;
+}
+
+p {
+	color: black;
+	font-size: 1.2em;
+	font-weight: 700;
+	text-align: justify;
+	background-color: lightblue;
+	padding: 36px;
+	margin: 36px;
+}
+
+#Para1 {
+
+}
+
+#Para2 {
+
+}
+
+#Para3 {
+
+}
+
+#Para4 {
+
+}
+
+#Para5 {
+
+}
